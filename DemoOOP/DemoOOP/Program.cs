@@ -22,6 +22,8 @@
             giocatore1.Stampa();
             giocatore2.Stampa();
             giocatore3.Stampa();
+
+            // questa è una modifica
         }
     }
 }
